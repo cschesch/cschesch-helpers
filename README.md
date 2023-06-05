@@ -1,2 +1,1 @@
-# cschesch-helpers
-Helpers
+Just some helpers for data anylisis in Python.
