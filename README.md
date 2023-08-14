@@ -1,1 +1,1 @@
-Just some helpers for data anylisis in Python.
+Just some helpers for data analysis in Python.
